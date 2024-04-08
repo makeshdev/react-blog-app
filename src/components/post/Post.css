@@ -1,0 +1,15 @@
+.card {
+  background-color: #fff;
+  color: #c94c36;
+  margin: 15px 0;
+}
+.card-header {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 15px;
+  border-bottom: 1px solid #c94c36;
+}
+.card-text {
+  color: #d4705e;
+}
